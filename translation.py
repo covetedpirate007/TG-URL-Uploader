@@ -6,7 +6,8 @@ This is a Telegram URL Upload Bot!
 
 /help for more details..
 
-Support Group : @InFoTelGroup
+Join Our Channel : @teamxprojects
+Thanks to @InFoTelGroup
 © @SpEcHlDe , @TGBotsZ & @CWProjects"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
@@ -48,11 +49,11 @@ Expires on: 31/12/2020"""
    
 <b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/QkAkSLBgoYw">Diploy</a>
 
+Also check out @urluploaderxbot
 --------
 Send /me to know current plan details
-
-Support Group : @InFoTelGroup
-© @TGBotsZ"""
+Thanks to @InFoTelGroup
+© @teamxprojects"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
