@@ -6,7 +6,8 @@ This is a Telegram URL Upload Bot!
 
 /help for more details..
 
-Join Our Channel : @teamxprojects
+Join Channel : @teamxprojects
+
 Thanks to @InFoTelGroup
 © @SpEcHlDe , @TGBotsZ & @CWProjects"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
@@ -20,8 +21,8 @@ URL | filename | username | password"""
     UPLOAD_START = "trying to upload"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Join : @TGBotsZ"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nJoin : @TGBotsZ \nUploaded in {} seconds."
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Join : @TeamXprojects"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nJoin : @TeamXprojects \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
@@ -37,8 +38,10 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Plan name: Free Cloned User
 Expires on: 31/12/2020"""
-    HELP_USER = """Hai am URL Uploader bot..
-    
+    HELP_USER = """Hi there, I'm a URL Uploader bot..
+   
+   Just follow the below steps and I can upload your required file from direct links to Telegram.
+   
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
 3. Select the button.
@@ -46,10 +49,15 @@ Expires on: 31/12/2020"""
    DFile  - Give File with Screenshots
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
-   
-<b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/QkAkSLBgoYw">Diploy</a>
+  
+  Read guides in @TeamXprojects channel for specific types of links like magnets.
+  
+<b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/QkAkSLBgoYw">Deploy</a>
 
-Also check out @urluploaderxbot
+Uploading porn🔞 or abusive usage will result in instant ban🚫.
+
+If bot is slow, try @urluploaderxbot
+
 --------
 Send /me to know current plan details
 Thanks to @InFoTelGroup
